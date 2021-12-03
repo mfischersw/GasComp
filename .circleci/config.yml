@@ -39,6 +39,7 @@ jobs:
   #          python3 setup.py sdist bdist_wheel            
   #          pipenv run twine upload --repository testpypi dist/*
 workflows:
+  version: 2
   build_publish:
     jobs:
       - build
