@@ -42,6 +42,3 @@ workflows:
   build_test_publish:
     jobs:
       - build
-      - test_pypi_publish:
-          requires:
-            - build_test
