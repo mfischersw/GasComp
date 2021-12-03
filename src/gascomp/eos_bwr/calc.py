@@ -22,12 +22,10 @@ class Gas():
        It takes a gas mixture given as dictionary as input.
     """
 
-    def __init__(self):#, gasmixture
+    def __init__(self):
 
         # Input
         pass
-        #self.gasmixture = gasmixture
-        #self.Nmix = len(gasmixture)
 
     def calc_realGasFactor_Z(self, p, T):
         """Calculate Real gas factor Z.
