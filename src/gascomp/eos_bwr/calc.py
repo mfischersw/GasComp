@@ -9,8 +9,19 @@
 
 
 # Python modules
+# import numpy
+# from scipy import optimize
 
 # Own modules
+# from . import data
+
+# Physical Constants
+R_UNI = 0.08206     # Universal gas constant [atm*m^3/kmol*K]
+TNORM = 273.15      # normal temperature [K]
+PNORM = 101325.0    # normal pressure [Pa]
+
+# Numerical Constants
+NEWTON1D_TOL = 1.0e-10
 
 
 class Gas():
