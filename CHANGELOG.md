@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [1.0.4] - 2021-12-29
 
 ### Added
+- Sphinx requirements.txt
+
+## [1.0.4] - 2021-12-29
+
+### Added
 - Sphinx documentation
 
 ## [1.0.3] - 2021-12-20
