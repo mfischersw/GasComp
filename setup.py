@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gascomp',
-    version='1.0.6',
+    version='1.0.7',
     description='GasComp',
     long_description='GasComp',
     author='Michael Fischer',
