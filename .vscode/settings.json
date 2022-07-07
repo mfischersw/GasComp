@@ -1,5 +1,6 @@
 {
     "python.pythonPath": "C:\\Development\\gascomp_env\\Scripts\\python.exe",
     "python.linting.enabled": true,
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "esbonio.sphinx.confDir": ""
 }
